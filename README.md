@@ -21,7 +21,6 @@ visit our live hosted website:
 
 ## Features
 - **Adaptive Difficulty:** The questions cover a range from basic introductions to blockchain to complex technological concepts, suitable for all levels of expertise.
-- **Progress Tracking:** Keep track of your advancement through the quiz with an intuitive progress indicator.
 - **Interactive Interface:** Enjoy an engaging and user-friendly interface designed to make learning both enjoyable and effective.
 
 ## How to Play
