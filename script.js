@@ -483,7 +483,7 @@ submitBtn.addEventListener("click", () => {
       quiz.innerHTML = `
         <h2>You answered ${score}/${quizData.length} questions correctly</h2>
         <h2>In ${minutes} Minutes and ${seconds} Seconds.</h2>
-        <button onclick="window.location.href='https://certificate-nu.vercel.app/'">Now Generate Certificate.</button>
+        <button onclick="window.location.href='https://certificate-blockchain-quiz.vercel.app/'">Now Generate Certificate.</button>
       `;
     }
   }

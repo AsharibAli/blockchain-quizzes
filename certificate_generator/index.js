@@ -47,7 +47,7 @@ const generatePDF = async (name) => {
 
 document.addEventListener("DOMContentLoaded", function () {
   // the actual path of your Quiz App
-  const allowedReferrer = "https://prompting-quizzes.vercel.app/";
+  const allowedReferrer = "https://blockchain-quizzes.vercel.app/";
   console.log("Referrer URL:", document.referrer);
   // This line logs the referrer URL
 
