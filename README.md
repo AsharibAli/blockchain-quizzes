@@ -17,7 +17,7 @@ cd blockchain-quizzes
 or 
 
 visit our live hosted website:
-[Blockchain Essentials Quiz](https://blockchain-essentials-quiz.com/)
+[Blockchain Essentials Quiz](https://blockchain-quizzes.vercel.app/)
 
 ## Features
 - **Adaptive Difficulty:** The questions cover a range from basic introductions to blockchain to complex technological concepts, suitable for all levels of expertise.
