@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (!document.referrer || document.referrer.indexOf(allowedReferrer) !== 0) {
     // If the referrer is not the Quiz App, hide the certificate generation UI.
-    document.body.innerHTML = `<p>Access Denied. Please visit the <a href="https://prompting-quizzes.vercel.app/" target="_blank">
+    document.body.innerHTML = `<p>Access Denied. Please visit the <a href="https://blockchain-quizzes.vercel.app/" target="_blank">
     quiz website 
   </a>
    first to complete the quizzes then generate your certificate here.</p>`;
