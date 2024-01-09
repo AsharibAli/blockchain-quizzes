@@ -1,12 +1,12 @@
-# 40-Question Blockchain Quiz Challenge
+# 50-Question Blockchain Quiz Challenge
 
-Welcome to the **40-Question Blockchain Quiz Challenge**! Explore the world of blockchain, from basic concepts to advanced applications, through our interactive quiz. This challenge is ideal for both blockchain enthusiasts and professionals who wish to deepen their understanding of this revolutionary technology.
+Welcome to the **50-Question Blockchain Quiz Challenge**! Explore the world of blockchain, from basic concepts to advanced applications, through our interactive quiz. This challenge is ideal for both blockchain enthusiasts and professionals who wish to deepen their understanding of this revolutionary technology.
 
 ## Content Cover:
 - [Learn Complete Blockchain by Code Eater | Blockchain Full Course - 6 hours ](https://www.youtube.com/watch?v=6aF6p2VUORE). 
 
 ## About the Quiz
-This quiz consists of 40 carefully designed questions, encompassing a variety of topics within blockchain technology. It serves as an excellent resource for self-evaluation, educational purposes, and can be utilized for workshops or team-building exercises in tech communities.
+This quiz consists of 50 carefully designed questions, encompassing a variety of topics within blockchain technology. It serves as an excellent resource for self-evaluation, educational purposes, and can be utilized for workshops or team-building exercises in tech communities.
 
 ## Getting Started
 To embark on this quiz journey, clone the repository to your local machine:
@@ -26,7 +26,7 @@ visit our live hosted website:
 ## How to Play
 1. Launch the quiz.
 2. Choose the correct answer from the options provided.
-3. Complete all 40 questions to assess your blockchain knowledge.
+3. Complete all 50 questions to assess your blockchain knowledge.
 
 ## Scoring System
 - Correct Answer: +1 point
