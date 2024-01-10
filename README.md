@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgements
 - Blockchain Enthusiasts and Experts
 - Contributors and Community Members
-- The vibrant global blockchain community for inspiration
+- The vibrant global blockchain community for inspiration.
 
