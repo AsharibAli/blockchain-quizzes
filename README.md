@@ -8,16 +8,7 @@ Welcome to the **50-Question Blockchain Quiz Challenge**! Explore the world of b
 ## About the Quiz
 This quiz consists of 50 carefully designed questions, encompassing a variety of topics within blockchain technology. It serves as an excellent resource for self-evaluation, educational purposes, and can be utilized for workshops or team-building exercises in tech communities.
 
-## Getting Started
-To embark on this quiz journey, clone the repository to your local machine:
-```
-git clone https://github.com/asharibali/blockchain-quizzes
-cd blockchain-quizzes
-```
-or 
-
-visit our live hosted website:
-[Blockchain Essentials Quiz](https://blockchain-quizzes.vercel.app/)
+- visit our live hosted website: [Blockchain Essentials Quiz](https://blockchain-quizzes.vercel.app/)
 
 ## Features
 - **Adaptive Difficulty:** The questions cover a range from basic introductions to blockchain to complex technological concepts, suitable for all levels of expertise.
@@ -46,4 +37,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Blockchain Enthusiasts and Experts
 - Contributors and Community Members
 - The vibrant global blockchain community for inspiration.
-
